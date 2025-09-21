@@ -32,7 +32,12 @@ tensorrt-llm                             0.18.0
 vocos
 vocos                                    0.1.0
 ```
+显卡配置, RTX4060 8G（8G消费显卡也可以学习大模型）
+![alt text](assets/image0.png)
+
 python的包兼容性很差，换个版本可能跑不通了
+
+
 
 2. 本地安装F5-TTS
 
